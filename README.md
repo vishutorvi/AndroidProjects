@@ -1,5 +1,5 @@
 
-Description about the App
+Description about Smart Helmet App
 
 A Helmet which can keep track of you and detects your fall more accurately by using multiple sensors data and posting alert messages along with your GPS location data to your emergency contact on behalf of you when you met with some disaster or unconsciousness. The main aim is to bring up an application which provide more accurate fall detection and reporting.
 
